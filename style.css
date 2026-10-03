@@ -1,8 +1,12 @@
 body  {
-  font-family: 'Arial', sans-serif;
+  font-family: 'montserrat', sans-serif;
   font-size: 13px;
   line-height: 18px;
   color: #515076;
+  background-image: url("img/background.png");
+  background-position: 135px 0px;
+  background-size: 790px;
+  background-repeat: no-repeat;
 }
 
 .title {
@@ -48,4 +52,5 @@ body  {
   font-weight: 400;
     font-size: 12px;
   line-height: 24px;
+  text-transform: uppercase;
 }
